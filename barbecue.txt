@@ -11,4 +11,4 @@ fa
 
 aa
 
-basho 000
+basho 30
